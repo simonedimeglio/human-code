@@ -1,0 +1,41 @@
+ESERCITAZIONE 23 GIUGNO
+Traccia -  È successo di nuovo! la macchina ha un guasto al servosterzo: portarla dal meccanico.
+
+- mi accorgo del guasto 
+
+stopInSicurezza () {
+    - rallento
+    - while (strada = traffica && non c'è spazio per fermarmi) {
+        - continuo ad andare avanti 
+    }
+
+    - trovo uno spazio 
+    - if (spazio = libero || posso fermarmi) {
+        - metto la freccia
+        - accosto 
+        - accendo le quattro freccie
+        - spego l'auto
+    }
+}
+
+- prendo il telefono dalla tasta
+- apro la rubrica 
+- cercare i meccanici disponibili 
+const meccanici = ['Marco', 'Andrea' ... ]
+const meccaniciLiberi = rubrica.filter((mecc) => {
+    if (meccanico = libero && meccanico = vicino) {
+        return true
+    } else {
+        return false
+    }
+}); 
+
+// nel caso TRUE
+
+- porto la macchina dal meccanico 
+
+if (prezzo < 500) {
+    ok, aggiusto l'auto
+} else {
+    la vendo e la compro nuova. // alla fine era già successo, basta spendere per un auto difettosa!
+}
